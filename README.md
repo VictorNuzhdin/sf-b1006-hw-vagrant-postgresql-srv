@@ -1,4 +1,4 @@
-# sf-task1006-hw-vagrant-postgresql-srv
+# sf-b1006-hw-vagrant-postgresql-srv
 For Skill Factory study project (B10, HW)
 
 <br>
